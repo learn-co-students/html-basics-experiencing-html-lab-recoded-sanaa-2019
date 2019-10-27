@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 My Favorite Things:
 
 1. laptops.
 2. Smart Phones.
 3. Cars.
 4. Headphones.
+=======
+Animals I love:
+"Horses"
+"Cats"
+"Birds"
+"Dogs"
+>>>>>>> 7f41f05de52b27061fc8604f40f5eef820892fc5
